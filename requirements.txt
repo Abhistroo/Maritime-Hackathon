@@ -5,3 +5,11 @@ numpy
 openai
 python-dotenv
 google-generativeai
+os
+time
+io 
+re
+math
+google.generativeai
+pypdf2
+
